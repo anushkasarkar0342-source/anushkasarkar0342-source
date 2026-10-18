@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**anushkasarkar0342-source/anushkasarkar0342-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anushka Sarkar! 👋
 
-Here are some ideas to get you started:
+🎓 Second-year Computer Science and Engineering student specializing in AI & ML at VIT-AP University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building projects, exploring new technologies, and solving problems through code.
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, Java, JavaScript
+- **Web Development:** HTML, JavaScript
+- **Machine Learning:** Scikit-learn, LightGBM, XGBoost, SHAP
+- **Hardware & IoT:** ESP32, Arduino
+- **Tools:** Git, GitHub
+
+## 🚀 Featured Projects
+
+### 🌦️ Weather App
+A desktop weather application built using Python, PyQt5, and the OpenWeatherMap API.
+
+### 🧠 GI Disease Classification
+A machine learning prototype comparing four classifiers and explaining predictions with SHAP using simulated gastrointestinal data.
+
+### 🕒 Digital Clock
+A real-time digital clock desktop application built using Python and PyQt5.
+
+## 🌱 Currently Exploring
+
+- Artificial Intelligence and Machine Learning
+- Software Development
+- Web Development
+- Internet of Things
+
+## 🤝 Let's Connect
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects.
+
+---
+⭐ Always learning, building, and improving.
